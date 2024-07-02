@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.ts": "typescript",
+        "pthread.h": "c"
+    },
+    "cSpell.words": [
+        "killall",
+        "rmkdir",
+        "rstrchr",
+        "spid"
+    ]
+}
